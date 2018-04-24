@@ -49,3 +49,13 @@ elif escolha == 2:
     for e in range(len(estoque)):
         if estoque[e] == nome_do_produto:
             estoque.remove(e)
+        else:
+            print ("produto nao econtrado")
+#opcao 3
+elif escolha == 3:
+    
+    nome_do_produto == input('Nome do produto: ')
+    if 
+        quantidadenova = int(input('Quantidade: '))
+        if quantidadenova +=quatidades[] > 0:
+            quantidades[].append(quantidadenova + quatidades[])
